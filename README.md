@@ -9,11 +9,11 @@
 ## Um Programador apaixonado por codigos querendo compartilhar seu conhecimento. Sempre buscando evoluir e melhorar em todos os aspectos.
 
 ###### 📓 O que ando estudando:
-React-Native
-ReactJS
-NodeJS
-Javascript
-Angular
-HTML
-CSS
+-React-Native
+-ReactJS
+-NodeJS
+-Javascript
+-Angular
+-HTML
+-CSS
 
