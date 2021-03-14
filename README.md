@@ -4,20 +4,22 @@
 
 # Achilles Robson Vasconcelos
 
+## Um Programador apaixonado por codigos querendo compartilhar seu conhecimento. Sempre buscando evoluir e melhorar em todos os aspectos.
+
+
+
+
 # GIT STATUS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-## Um Programador apaixonado por codigos querendo compartilhar seu conhecimento. Sempre buscando evoluir e melhorar em todos os aspectos.
 
 ###### 📓 O que ando estudando:
--React-Native
--ReactJS
 -NodeJS
 -Javascript
--Angular
+-Vue
 -HTML
 -CSS
 
