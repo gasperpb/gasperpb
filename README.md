@@ -4,8 +4,15 @@
 
 # Achilles Robson Vasconcelos
 
-## Um Programador apaixonado por codigos querendo compartilhar seu conhecimento. Sempre buscando evoluir e melhorar em todos os aspectos.
+## Olá! Meu nome é Achilles Robson Vasconcelos e sou um programador apaixonado por códigos, sempre buscando evoluir e melhorar em todos os aspectos.
 
+Atualmente, estou estudando NodeJS, JavaScript, Vue, HTML e CSS, e acredito que essas tecnologias têm um grande potencial para impulsionar a criação de soluções incríveis.
+
+Meu Github é uma vitrine do meu trabalho, onde você pode conferir meus projetos e o que estou desenvolvendo atualmente. Além disso, meu LinkedIn também está disponível para você conhecer um pouco mais sobre minha experiência e habilidades profissionais.
+
+Eu também tenho experiência no uso de diversas ferramentas, como Android Studio, Docker, Eclipse, IntelliJ, PHPStorm, PyCharm, PowerShell, Visual Studio, Visual Studio Code, VMware e Xcode. Estou sempre aberto a aprender mais e experimentar novas ferramentas para expandir minhas habilidades.
+
+Se você está procurando um programador dedicado, apaixonado e comprometido em oferecer soluções de qualidade, entre em contato comigo! Será um prazer colaborar com sua equipe e contribuir para alcançar seus objetivos.
 
 
 
